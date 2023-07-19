@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826&nd=1)">
+  <a href="(https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826)">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
