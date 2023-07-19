@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-Я начинающий Java-разработчик с Сахалина, Россия. Я начал свою изучение с Java-rush и подумал почему бы не пойти на курсы ?
+Я начинающий Java-разработчик. Я начал свою изучение с Java-rush и подумал почему бы не пойти на курсы ?
 Выбрал - Яндекс Практикум, закончил обучение в июле 2023 но, не останавливаюсь на достигнутом, активно развиваюсь как разработчик.
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826">
+  <a href="https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826](https://open.spotify.com/track/0UZFTyq4ogQ5RvfOHGPVdZ?si=b7bf3b3599294826&nd=1)">
     <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify Now Playing" />
   </a>
 </p>
